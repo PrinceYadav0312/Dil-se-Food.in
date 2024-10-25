@@ -1,0 +1,157 @@
+@media (max-width:1024px) {
+
+    /* about section */
+
+     /* Price section  */
+    
+     .Price-sec2 h5{
+        padding-left: 0.8rem;
+    }
+
+    .Price-sec2 span{
+        padding: 0 8rem 0 0;
+    }
+    
+    .Price-sec3{
+        padding: 2rem 0 1rem 0.9rem;
+    }
+
+    .Price-sec3 h4{
+        font-weight: 600;
+    }
+
+    .Price-sec3 span{
+        padding-left: 6rem;
+    }
+
+}
+
+@media (max-width: 991px) {
+
+    /*custom classes  */
+    
+    .text-content{
+    width:100%;
+    }
+     
+    /* navbar brand */
+
+    .navigation-wrap .navigation-brand img{
+        height: 3.8125rem;
+    }
+
+    .navigation-wrap{
+        text-align: center;
+        background-color: var(--white-color);
+    }
+    .navigation-wrap .nav-link{
+        line-height: 1.875rem;
+    }
+
+    /* banner design */
+    .top-banner{
+        padding:9.375rem 0 9.375rem;
+    }
+
+     /* Price section  */
+    
+    .Price-sec2 h5{
+        padding-left: 0.15rem;
+    }
+
+    .Price-sec2 span{
+        padding: 0 3.9rem 0 0;
+    }
+    
+    .Price-sec3{
+        padding: 2rem 0 1rem 0.3rem;
+    }
+
+    .Price-sec3 h4{
+        font-weight: 600;
+    }
+
+    .Price-sec3 span{
+        padding-left: 2rem;
+    }
+}
+
+@media ( max-width: 767px) {
+    /* custom design */
+    h1{
+        font-size: 2.8rem;
+    }
+    h2{
+        font-size: 2rem;
+        line-height: 2.0625rem;
+    }
+
+    /* top banner */
+    
+    .top-banner{
+        padding:10.875rem 0 9.375rem;
+    }
+
+    /* about section  */
+
+    .about-section{
+        padding: 5rem 0;
+    }
+
+    /* story section  */
+
+    .story-section{
+        height: auto;
+        padding: 3rem 0;
+    }
+
+    /* testimonial section  */
+    .testimonial-section .carousel-item{
+        padding: 14rem 4rem;
+    }
+
+    /* news letter  */
+    
+    .news-letter .main-btn{
+        width: 100%;
+        margin-top: 1rem;
+    }    
+
+    /* Price section  */
+    
+    .Price-sec2 h5{
+        padding-left: 1rem;
+    }
+
+    .Price-sec2 span{
+        padding: 0 12rem 0 0;
+    }
+    
+    .Price-sec3{
+        padding: 2rem 0 1rem 1rem;
+    }
+
+    /* .Price-sec3 h4{
+        font-weight: 600;
+    } */
+
+    .Price-sec3 span{
+        padding-left: 12rem;
+    }
+}
+
+@media (max-width:414px){
+    .cancel{
+       margin-top: 1rem;
+    }
+
+}
+
+@media (max-width:330px) {
+
+    /* carousel design */
+    .testimonial-section .carousel-item{
+        padding: 13rem 3.125rem;
+    }
+     
+}
